@@ -1,0 +1,27 @@
+body
+{
+    background-image: url(../img/wallpapersBat.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.box 
+{
+    display: flex;
+    justify-content: center;
+}
+
+h1
+{
+    font-size: 53px;
+    color: #132535;
+    font-family: fantasy;
+}
+
+.t, .b 
+{
+    font-family: inherit;
+    color: #09111e;
+    font-size: 62px;
+}
+
